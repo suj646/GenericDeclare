@@ -1,0 +1,15 @@
+F:\DOTNET\genericdeclare\genericdeclare\bin\Debug\net5.0\genericdeclare.exe
+F:\DOTNET\genericdeclare\genericdeclare\bin\Debug\net5.0\genericdeclare.deps.json
+F:\DOTNET\genericdeclare\genericdeclare\bin\Debug\net5.0\genericdeclare.runtimeconfig.json
+F:\DOTNET\genericdeclare\genericdeclare\bin\Debug\net5.0\genericdeclare.runtimeconfig.dev.json
+F:\DOTNET\genericdeclare\genericdeclare\bin\Debug\net5.0\genericdeclare.dll
+F:\DOTNET\genericdeclare\genericdeclare\bin\Debug\net5.0\ref\genericdeclare.dll
+F:\DOTNET\genericdeclare\genericdeclare\bin\Debug\net5.0\genericdeclare.pdb
+F:\DOTNET\genericdeclare\genericdeclare\obj\Debug\net5.0\genericdeclare.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\genericdeclare\genericdeclare\obj\Debug\net5.0\genericdeclare.AssemblyInfoInputs.cache
+F:\DOTNET\genericdeclare\genericdeclare\obj\Debug\net5.0\genericdeclare.AssemblyInfo.cs
+F:\DOTNET\genericdeclare\genericdeclare\obj\Debug\net5.0\genericdeclare.csproj.CoreCompileInputs.cache
+F:\DOTNET\genericdeclare\genericdeclare\obj\Debug\net5.0\genericdeclare.dll
+F:\DOTNET\genericdeclare\genericdeclare\obj\Debug\net5.0\ref\genericdeclare.dll
+F:\DOTNET\genericdeclare\genericdeclare\obj\Debug\net5.0\genericdeclare.pdb
+F:\DOTNET\genericdeclare\genericdeclare\obj\Debug\net5.0\genericdeclare.genruntimeconfig.cache
